@@ -11,7 +11,7 @@ Data convertors act like a mediator in between the digital and analog world. The
 1. [WHY SAR?](#why-sar)
 2. [BLOCK DIAGRAM OF ADC](#block-diagram-of-adc)
 3. [DETAILED BLOCK DIAGRAM OF ADC](#detailed-block-diagram-of-adc)
-4. [SAR ADC PARAMETER](#sar-adc-parameter)
+4. [SAR ADC PARAMETERS](#sar-adc-parameters)
 5. [LAYOUT](#layout)
 6. [TRANSFER FUNCTION](#transfer-function)
 
@@ -39,7 +39,7 @@ The ADC consists of five parts-
 ![Capture4](https://user-images.githubusercontent.com/77826778/108491680-38647500-72ca-11eb-870a-72871763f5e0.PNG)
 
 
-## SAR ADC Parameters:
+## SAR ADC PARAMETERS:
 
 | Parameter| Description| Min | Typ | Max | Unit | Condition |
 | :---:  | :-: | :-: | :-: | :---:  | :-: | :-: |
