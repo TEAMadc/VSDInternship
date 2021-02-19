@@ -14,6 +14,7 @@ Data convertors act like a mediator in between the digital and analog world. The
 4. [SAR ADC PARAMETERS](#sar-adc-parameters)
 5. [LAYOUT](#layout)
 6. [TRANSFER FUNCTION](#transfer-function)
+7. [PRE-LAYOUT SIMULATIONS](#pre-layout-simulations)
 
 
 ## WHY SAR?
@@ -94,11 +95,15 @@ The ADC consists of five parts-
 
 ## PRE-LAYOUT SIMULATIONS
 
-# Pre-layout INL Error
+### Pre-layout INL Error
+
+INL(Integral non-linearity) shows how closely the ADC output matches its ideal response
 
 ![inl](https://user-images.githubusercontent.com/79297655/108534327-0968f600-7300-11eb-943e-462a795bb484.PNG)
 
-# Pre-layout DNL Error
+### Pre-layout DNL Error
+
+Differential non-linearity(DNL) means the deviation from the ideal step width. For an Ideal ADC, the output is divided into 2^N uniform steps of a specific step width. DNL for ideal ADC is 0LSB. In practical ADC, it comes feom its architecture. For SAR ADC DNL error could be in the mid range because of mismatching of its DAC.
 
 ![dnl](https://user-images.githubusercontent.com/79297655/108534430-24d40100-7300-11eb-9b2f-394186fdb581.PNG)
 
