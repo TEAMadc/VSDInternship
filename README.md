@@ -8,8 +8,8 @@ Data convertors act like a mediator in between the digital and analog world. The
 ## TABLE OF CONTENTS:
 <!--ts-->
 
-1. [WHY SAR?](#why-sar?)
-2. [BLOCK DIAGRAM OF ADC](#block-diagram-of-sar)
+1. [WHY SAR?](#why-sar)
+2. [BLOCK DIAGRAM OF ADC](#block-diagram-of-adc)
 3. [DETAILED BLOCK DIAGRAM OF ADC](#detailed-block-diagram-of-adc)
 4. [SAR ADC PARAMETER](#sar-adc-parameter)
 5. [LAYOUT](#layout)
