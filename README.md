@@ -10,7 +10,12 @@ Data convertors act like a mediator in between the digital and analog world. The
 
 1. [WHY SAR?](#why-sar?)
 2. [BLOCK DIAGRAM OF ADC](#block-diagram-of-sar)
-3. 
+3. [DETAILED BLOCK DIAGRAM OF ADC](#detailed-block-diagram-of-adc)
+4. [SAR ADC PARAMETER](#sar-adc-parameter)
+5. [LAYOUT](#layout)
+6. [TRANSFER FUNCTION](#transfer-function)
+
+
 ## WHY SAR?
 
 SAR ADC is selected as it provided with a perfect balance of speed, power and area consumption.
