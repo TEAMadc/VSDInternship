@@ -46,3 +46,18 @@ The ADC consists of five parts-
 |IDDA|Analog Supply Current||||pA|T=27C, EN=0,FCLK=2MHz|
 |IDDD|Digital Supply Current||2.833||mA|T=27C, EN=1,FCLK=2MHz|
 
+## Layout
+
+* Layout of SAR Logic
+
+![sarlogic](https://user-images.githubusercontent.com/79297655/108503550-939e6380-72da-11eb-9ad3-bb6b60ca8b25.PNG)
+
+* Layout of Comparator
+
+![comparator](https://user-images.githubusercontent.com/79297655/108503621-b3ce2280-72da-11eb-8537-53a94bb97bb3.PNG)
+
+
+## Transfer Function 
+
+![transfer](https://user-images.githubusercontent.com/79297655/108503697-d3654b00-72da-11eb-837f-946879784247.PNG)
+
