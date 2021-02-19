@@ -71,6 +71,18 @@ The ADC consists of five parts-
 
 ![comparator](https://user-images.githubusercontent.com/79297655/108503621-b3ce2280-72da-11eb-8537-53a94bb97bb3.PNG)
 
+* ### Layout of Sample and hold-
+
+![sample](https://user-images.githubusercontent.com/79297655/108534602-56e56300-7300-11eb-8a16-1e5cb99f3b2e.PNG)
+
+* ### Layout of R-2R DAC-
+
+![dac](https://user-images.githubusercontent.com/79297655/108534740-7e3c3000-7300-11eb-8ef7-300fec5b67e9.PNG)
+
+* ### Layout of Clock Divider-
+
+![clk](https://user-images.githubusercontent.com/79297655/108534879-a75cc080-7300-11eb-9f62-d7b870557cd9.PNG)
+
 * ### Layout of complete ADC-
 
 ![layout of sar](https://user-images.githubusercontent.com/79297655/108504744-63f05b00-72dc-11eb-9d29-43123b8f416f.PNG)
@@ -79,4 +91,15 @@ The ADC consists of five parts-
 ## TRANSFER FUNCTION: 
 
 ![transfer](https://user-images.githubusercontent.com/79297655/108503697-d3654b00-72da-11eb-837f-946879784247.PNG)
+
+## PRE-LAYOUT SIMULATIONS
+
+# Pre-layout INL Error
+
+![inl](https://user-images.githubusercontent.com/79297655/108534327-0968f600-7300-11eb-943e-462a795bb484.PNG)
+
+# Pre-layout DNL Error
+
+![dnl](https://user-images.githubusercontent.com/79297655/108534430-24d40100-7300-11eb-9b2f-394186fdb581.PNG)
+
 
