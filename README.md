@@ -1,3 +1,5 @@
+===IN PROGRESS===
+
 # INTRODUCTION TO ADC:
 
 Data convertors act like a mediator in between the digital and analog world. They are used to convert analog signals to digital signals. They form the critical component of all the systems. The digital signals are considered dominant over analog signals as they improve the modern circuit performance. ADC is required as most signals in the physical world are analog.
