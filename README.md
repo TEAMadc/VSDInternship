@@ -5,6 +5,12 @@ Data convertors act like a mediator in between the digital and analog world. The
 ## SPECIFICATIONS: 
 ### 10 Bit ADC, 3.3V Analog Voltage, 1.8V Digital Voltage and 1 off-chip external voltage reference
 
+## TABLE OF CONTENTS:
+<!--ts-->
+
+1. [WHY SAR?](#why-sar?)
+2. [BLOCK DIAGRAM OF ADC](#block-diagram-of-sar)
+3. 
 ## WHY SAR?
 
 SAR ADC is selected as it provided with a perfect balance of speed, power and area consumption.
@@ -19,10 +25,11 @@ SAR ADC is selected as it provided with a perfect balance of speed, power and ar
 ## DETAILED BLOCK DIAGRAM OF ADC:
 
 The ADC consists of five parts-
-1.  Comparator
-2.  SAR Logic
-3.  R-2R DAC
-4.  Sample and Hold
+1.  [Comparator](https://github.com/mou3ananya/prelayoutWork)
+2.  [SAR Logic](https://github.com/shalini161/SAR_Logic)
+3.  [R-2R DAC](https://github.com/sherylcorina/R2R_DAC)
+4.  [Sample and Hold](https://github.com/uday2012/sample_hold)
+5.  [Clock DIvider](https://github.com/mou3ananya/prelayoutWork)
 
 ![Capture4](https://user-images.githubusercontent.com/77826778/108491680-38647500-72ca-11eb-870a-72871763f5e0.PNG)
 
